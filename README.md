@@ -1,4 +1,4 @@
-# 🌸 Iris Classification with Scikit-learn
+# Iris Classification with Scikit-learn
 
 This project is a **practical implementation of Scikit-learn** using the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris).
 
@@ -7,9 +7,9 @@ Scikit-learn is then used to train the model on the training set and evaluate it
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**
 - **Pandas** – data manipulation and analysis  
 - **Excel** – dataset preparation and splitting  
 - **Scikit-learn** – model training and evaluation  
-- **Jupyter Notebook** – interactive experimentation  
+- **Jupyter Notebook** – interactive platform  
